@@ -1,0 +1,38 @@
+@media (min-width: 768px){
+	.storefront-header-picker-active .wooassist-compact-layout .main-navigation  {
+		width: 55%;
+		float: right;
+		margin-right: 0em;
+		clear: none;
+		text-align: right;
+	}
+	.storefront-header-picker-active  .wooassist-compact-layout .site-branding,.storefront-header-picker-active .wooassist-compact-layout .site-logo-anchor,.storefront-header-picker-active .wooassist-compact-layout .site-logo-link{
+	    margin-right: 1%;
+	}	
+	.storefront-header-picker-active .wooassist-compact-layout .site-search .widget_product_search{
+		margin-left:2%;
+		width: 100%;
+	} 
+	.storefront-header-picker-active .wooassist-compact-layout .storefront-primary-navigation {
+		background: rgba(0,0,0,0);
+	}
+	.storefront-header-picker-active .wooassist-compact-layout .site-header-cart{
+		margin-left:2%;
+		width: 20%;
+	}
+	.storefront-header-picker-active .wooassist-centered-layout .site-branding{
+		text-align: center;
+		margin: 0 auto;
+		float: none;
+		width: 27%;
+	}
+	
+	.storefront-header-picker-active .wooassist-centered-layout .site-search {
+		float: right;
+		margin-right: 2%;
+	}
+	.storefront-header-picker-active .wooassist-centered-layout .main-navigation{
+		width: 55%;
+	}
+
+}

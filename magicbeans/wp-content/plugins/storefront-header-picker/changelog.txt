@@ -1,0 +1,11 @@
+*** Storefront Header Picker Changelog ***
+
+
+1.0.0
+* initial release
+
+1.0.1
+* added screenshots
+
+1.0.2
+* added css to compact layout

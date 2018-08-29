@@ -1,0 +1,14 @@
+=== Changelog ===
+
+== v 1.0.0 ==
+* First stable release.
+
+== v 1.0.1 ==
+* Fixed issue with syntax error in src/Santander/i18n/Message.php.
+
+== v 1.0.2 ==
+* New: New connector CONFIG_KEY_ACCESS_LOG_EXTERNAL
+* Removed: Swiftmailer extension
+
+== v 1.0.3 ==
+* Bug fix: Call to SOAP action TestConnection failed due to incorrect data in request.

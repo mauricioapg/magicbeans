@@ -1,0 +1,26 @@
+/* Custom Site Logo Admin Page CSS */
+
+.error {
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 600;
+}
+#csl_CustomSiteLogo_admin_hover_preview{
+	cursor: pointer;
+}
+#csl-margi-btm{
+	margin-bottom: 10px;
+}
+.csl-error-logo-url{
+	display: none;
+}
+
+.csl-CustomSiteLogo-notice-block{
+	background: #fff;
+	padding: 10px 12px;
+}
+.csl-CustomSiteLogo-notice-block span {
+    margin: 5px -10px 2px;
+    padding: 1px 12px;
+    font-size: 16px;
+}

@@ -1,0 +1,106 @@
+# Translation of Plugins - Bling WooCommerce - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Bling WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-10 03:17:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Bling WooCommerce - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://bling.com.br/"
+msgstr "http://bling.com.br/"
+
+#. Description of the plugin/theme
+msgid "The Bling is an online system that allows you to control the finances, inventory and issue invoices quickly and uncomplicated.."
+msgstr "O Bling é um sistema online que permite a você controlar as finanças, estoques e emitir notas fiscais de maneira rápida e descomplicada."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/organisys/bling-woocommerce"
+msgstr "https://github.com/organisys/bling-woocommerce"
+
+#. Plugin Name of the plugin/theme
+msgid "Bling WooCommerce"
+msgstr "Bling WooCommerce"
+
+#: includes/class-wc-bling-integration.php:198
+msgid "Send order to the Bling"
+msgstr "Enviar pedido ao Bling"
+
+#: includes/class-wc-bling-integration.php:103
+#: includes/class-wc-bling-integration.php:146
+msgid "Order sent successfully"
+msgstr "Pedido enviado com sucesso"
+
+#: includes/class-wc-bling-integration.php:100
+#: includes/class-wc-bling-integration.php:143
+msgid "Bling order number"
+msgstr "Número de pedido no Bling"
+
+#: includes/class-wc-bling-integration.php:80
+msgid "Log Bling events, such as API requests, inside %s"
+msgstr "Log sobre eventos do Bling, como requisições da API, dentro do arquivo %s"
+
+#: includes/class-wc-bling-integration.php:78
+msgid "Enable logging"
+msgstr "Habilitar log"
+
+#: includes/class-wc-bling-integration.php:76
+msgid "Debug Log"
+msgstr "Log de depuração"
+
+#: includes/class-wc-bling-integration.php:71
+msgid "Testing"
+msgstr "Teste"
+
+#: includes/class-wc-bling-integration.php:67
+msgid "here"
+msgstr "aqui"
+
+#: includes/class-wc-bling-integration.php:67
+msgid "Please enter your Bling Access Key. This is needed to integration works. Is possible generate a new Access Key %s."
+msgstr "Por favor, digite sua Chave de Acesso do Bling. É necessário para a integração funcionar. É possível gerar uma nova Chave de Acesso %s."
+
+#: includes/class-wc-bling-integration.php:65
+msgid "Access Key"
+msgstr "Chave de acesso"
+
+#: includes/class-wc-bling-integration.php:19
+msgid "The Bling is an online system that allows you to control the finances, inventory and issue invoices quickly and uncomplicated."
+msgstr "O Bling é um sistema online que permite a você controlar as finanças, estoques e emitir notas fiscais de maneira rápida e descomplicada."
+
+#. #-#-#-#-#  tmp-bling-woocommerce.pot (Bling WooCommerce 1.0.5)  #-#-#-#-#
+#. Author of the plugin/theme
+#: includes/class-wc-bling-integration.php:18
+#: includes/class-wc-bling-integration.php:216
+#: includes/class-wc-bling-integration.php:235
+msgid "Bling"
+msgstr "Bling"
+
+#: includes/class-wc-bling-api.php:262 includes/class-wc-bling-api.php:383
+msgid "Client note:"
+msgstr "Nota do cliente:"
+
+#: includes/class-wc-bling-api.php:260 includes/class-wc-bling-api.php:381
+msgid "Order number:"
+msgstr "Número do pedido:"
+
+#: includes/class-wc-bling-api.php:253 includes/class-wc-bling-api.php:374
+msgid "Tax"
+msgstr "Taxa"
+
+#: bling-woocommerce.php:116
+msgid "WooCommerce Extra Checkout Fields for Brazil"
+msgstr "WooCommerce Extra Checkout Fields for Brazil"
+
+#: bling-woocommerce.php:115
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: bling-woocommerce.php:114
+msgid "Bling WooCommerce depends on the last version of the %s and the %s to work!"
+msgstr "Bling WooCommerce depende da última vesão do %s e do %s para funcionar!"
